@@ -1,2 +1,3 @@
 Hello Dear students
 today is git class
+please help
